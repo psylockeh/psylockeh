@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/debora.cnh/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-![Snake animation](https://github.com/psylockeh/psylockeh/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/psylockeh/psylockeh/output/github-contribution-grid-snake.svg)
 ![Contador de Visitas](https://komarev.com/ghpvc/?username=psylockeh&color=blue)
 
 
