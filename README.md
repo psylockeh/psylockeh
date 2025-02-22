@@ -4,7 +4,8 @@
 👋 Olá! Sou Débora Nogueira (@psylockeh)!
 </p>
 
-🚀 Desenvolvedora Full Stack Jr. com um pedacinho do meu coração em RPA.
+### 🚀 Desenvolvedora Full Stack Jr. com um pedacinho do meu coração em RPA.
+
 🌱 Atualmente desenvolvendo meu TG, um projeto de rede social voltado para veganos, vegetarianos e pessoas com dietas restritivas a alimentos de origem animal.
 
 ### 🎯 Principais Tecnologias:
