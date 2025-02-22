@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <p align="center">
-👋 Olá! Sou Débora Nogueira (@psylockeh)!
+  <strong><span style="font-size: 24px;"> Olá! Sou Débora Nogueira (@psylockeh)!</span></strong>
 </p>
 
 ### 🚀 Desenvolvedora Full Stack Jr. com um pedacinho do meu coração em RPA.
