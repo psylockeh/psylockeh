@@ -10,7 +10,7 @@
 
 ### 🎯 Principais Tecnologias:
 🔹 Node.js 🚀 | 🔹 JavaScript ⚡ | 🔹 React Native 🚀| Angular | HTML 🔗| CSS  🚀 | Typescript 🔗  
-🔸 Experiência com Sensedia, MongoDB, MySQL e RPA  
+🔸  MongoDB, MySQL, PostGreSQL, Oracle 
 
 ### 📊 Linguagens mais utilizadas:
 🟠 JavaScript | 🟡 TypeScript | 🔵 Node.js | 🔴 SQL | 🟢 Shell  
