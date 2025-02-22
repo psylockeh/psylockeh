@@ -1,5 +1,23 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
+<p align="center">
+👋 Olá! Sou Débora Nogueira (@psylockeh)!
+</p>
+
+🚀 Desenvolvedora Full Stack Jr. com um pedacinho do meu coração em RPA.
+🌱 Atualmente desenvolvendo meu TG, um projeto de rede social voltado para veganos, vegetarianos e pessoas com dietas restritivas a alimentos de origem animal.
+
+### 🎯 Principais Tecnologias:
+🔹 Node.js 🚀 | 🔹 JavaScript ⚡ | 🔹 React Native 🚀| Angular | HTML 🔗| CSS  🚀 | Typescript 🔗  
+🔸 Experiência com Sensedia, MongoDB, MySQL e RPA  
+
+### 📊 Linguagens mais utilizadas:
+🟠 JavaScript | 🟡 TypeScript | 🔵 Node.js | 🔴 SQL | 🟢 Shell  
+
+💬 . 0 1 1 2 3 5 8 13 . 💬
+
+📌 **Vamos conectar?** Me encontre no LinkedIn, vamos contribuir juntos! 🚀✨
+
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=psylockeh&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=psylockeh&layout=compact&langs_count=10&theme=radical)
