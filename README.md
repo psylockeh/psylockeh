@@ -1,16 +1,19 @@
-## Hi there 👋
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=psylockeh&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=psylockeh&layout=compact&langs_count=10&theme=radical)
+![Gráfico de Commits](https://github-readme-streak-stats.herokuapp.com/?user=psylockeh&theme=radical)
 
-<!--
-**psylockeh/psylockeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://www.linkedin.com/in/nogueirad/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/debora.cnh/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
+![Snake animation](https://github.com/psylockeh/psylockeh/blob/output/github-contribution-grid-snake.svg)
+![Contador de Visitas](https://komarev.com/ghpvc/?psylockeh=psylockeh&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
