@@ -20,9 +20,9 @@
 📌 **Vamos conectar?** Me encontre no LinkedIn, vamos contribuir juntos! 🚀✨
 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=x&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=x&layout=compact&langs_count=10&theme=radical)
-![Gráfico de Commits](https://github-readme-streak-stats.herokuapp.com/?user=x&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=psylockeh&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=psylockeh&layout=compact&langs_count=10&theme=radical)
+![Gráfico de Commits](https://github-readme-streak-stats.herokuapp.com/?user=psylockeh&theme=radical)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nogueirad/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
