@@ -4,7 +4,9 @@
   <strong><span style="font-size: 24px;"> Olá! Sou Débora Nogueira (@psylockeh)!</span></strong>
 </p>
 
-### 🚀 Desenvolvedora Full Stack Jr. com um pedacinho do meu coração em RPA.
+### 🚀 Aspirante a Dev. Jr. com foco em React + Node. 
+
+Profissionalmente atuando com RPA LowCode 
 
 🌱 Atualmente desenvolvendo meu TG, um projeto de rede social voltado para veganos, vegetarianos e pessoas com dietas restritivas a alimentos de origem animal.
 
