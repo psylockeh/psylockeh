@@ -11,11 +11,8 @@ Profissionalmente atuando com RPA LowCode
 🌱 Atualmente desenvolvendo meu TG, um projeto de rede social voltado para veganos, vegetarianos e pessoas com dietas restritivas a alimentos de origem animal.
 
 ### 🎯 Principais Tecnologias:
-🔹 Node.js 🚀 | 🔹 JavaScript ⚡ | 🔹 React Native 🚀| Angular | HTML 🔗| CSS  🚀 | Typescript 🔗  
+🔹 React + Node
 🔸  MongoDB, MySQL, PostGreSQL, Oracle 
-
-### 📊 Linguagens mais utilizadas:
-🟠 JavaScript | 🟡 TypeScript | 🔵 Node.js | 🔴 SQL | 🟢 Shell  
 
 💬 . 0 1 1 2 3 5 8 13 . 💬
 
