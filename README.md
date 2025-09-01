@@ -4,11 +4,12 @@
   <strong><span style="font-size: 24px;"> Olá! Sou Débora Nogueira (@psylockeh)!</span></strong>
 </p>
 
-### 🚀 Aspirante a Dev. Jr. com foco em React + Node. 
+### 🚀 Dev. Jr. com foco em React + Node. 
 
-Profissionalmente atuando com RPA LowCode 
+Construindo meu portfólio...
 
-🌱 Atualmente desenvolvendo meu TG, um projeto de rede social voltado para veganos, vegetarianos e pessoas com dietas restritivas a alimentos de origem animal.
+Case A: Acompanhamento de licitações para pequenos empreendedores. 
+Fonte: dados.gov.br
 
 ### 🎯 Principais Tecnologias:
 🔹 React + Node
